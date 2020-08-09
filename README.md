@@ -1,3 +1,7 @@
+# Attention
+
+This repo no longer maintained, please check latest one here: https://github.com/AutoML-4Paradigm/AutoSF
+
 # AutoSF
 The code for our paper ["AutoSF: Searching Scoring Functions for Knowledge Graph Embedding"](https://arxiv.org/pdf/1904.11682.pdf) and this paper has been accepted by ICDE2020.
 
